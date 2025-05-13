@@ -1,5 +1,5 @@
-## Hi there, my name is Adria Sofia 👋
-##👨‍💻 About Me: I’m naturally curious and love solving problems, which is what drew me to data science. I enjoy using machine learning and analytics to turn messy ##data into smart, real-world solutions. For me, every challenge is a chance to learn, improve, and create something meaningful. 🚀
+## Hi there, my name is Adria Sofia 👋 \n
+##👨‍💻 About Me: I’m naturally curious and love solving problems, which is what drew me to data science. I enjoy using machine learning and analytics to turn messy ##data into smart, real-world solutions. For me, every challenge is a chance to learn, improve, and create something meaningful. 🚀 '\n'
 ##🌱 Always Learning:I’m dedicated to continuously growing in the field of data science, with a focus on advanced analytics, predictive modeling, and uncovering valuable insights from  data. 📘
 ##🔭Current Focus: I am actively seeking for new challenges and opportunities to grow, sharpen my skills, and contribute to projects that make a real impact. I'm committed to becoming the best version of myself. 💪
 ##📫 Let’s Connect: Reach out anytime,I’m excited to connect, exchange ideas, and dive into meaningful projects. 🚀
