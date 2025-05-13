@@ -10,8 +10,6 @@ I am actively seeking new challenges and opportunities to grow, sharpen my skill
 <br>
 📫 Let’s Connect:  
 Reach out anytime—I'm excited to connect, exchange ideas, and dive into meaningful projects. 🚀  
-<br><br>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
