@@ -1,5 +1,4 @@
 ## Hi there, my name is Adria Sofia 👋  
-<br>
 👨‍💻 About Me:  
 I’m naturally curious and love solving problems, which is what drew me to data science. I enjoy using machine learning and analytics to turn messy data into smart, real-world solutions. For me, every challenge is a chance to learn, improve, and create something meaningful. 🚀  
 <br>
