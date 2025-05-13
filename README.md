@@ -13,9 +13,7 @@ Reach out anytime—I'm excited to connect, exchange ideas, and dive into meanin
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) 
-![Dash](https://img.shields.io/badge/Dash-1E90FF?style=for-the-badge&logo=plotly&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C61E8?style=for-the-badge&logo=python&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) 
