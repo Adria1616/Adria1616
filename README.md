@@ -1,25 +1,16 @@
 ## Hi there, my name is Adria Sofia 👋  
-
 <br>
-
 ## 👨‍💻 About Me  
 I’m naturally curious and love solving problems, which is what drew me to data science. I enjoy using machine learning and analytics to turn messy data into smart, real-world solutions. For me, every challenge is a chance to learn, improve, and create something meaningful. 🚀  
-
 <br>
-
 ## 🌱 Always Learning  
 I’m dedicated to continuously growing in the field of data science, with a focus on advanced analytics, predictive modeling, and uncovering valuable insights from data. 📘  
-
 <br>
-
 ## 🔭 Current Focus  
 I am actively seeking new challenges and opportunities to grow, sharpen my skills, and contribute to projects that make a real impact. I'm committed to becoming the best version of myself. 💪  
-
 <br>
-
 ## 📫 Let’s Connect  
 Reach out anytime—I'm excited to connect, exchange ideas, and dive into meaningful projects. 🚀  
-
 <br><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
